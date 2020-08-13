@@ -1,6 +1,9 @@
 <a href="https://www.joverzhang.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoverZhang&show_icons=true" />
 </a>
+<a href="https://www.joverzhang.com">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoverZhang&hide=html,thrift" />
+</a>
 
 <!--
 **JoverZhang/JoverZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
