@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoverZhang&show_icons=true" />
 </a>
 <a href="https://www.joverzhang.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoverZhang&hide=html,thrift" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoverZhang&hide=html,thrift,JavaScript,Objective-C,Shell,XSLT,Roff,M4,CSS,Tcl,Dockerfile,Lua,Vue,Makefile,PowerShell,Batchfile,CMake,Assembly,Vim%20Script,Jinja" />
 </a>
 
 <!--
