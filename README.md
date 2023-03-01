@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoverZhang&show_icons=true&count_private=true" />
 </a>
 <a href="https://www.joverzhang.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoverZhang&hide=Dockerfile,Makefile" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoverZhang&hide=Dockerfile,Makefile,HTML" />
 </a>
 
 
