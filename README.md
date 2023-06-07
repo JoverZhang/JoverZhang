@@ -1,8 +1,8 @@
 <a href="https://www.joverzhang.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoverZhang&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoverZhang&show_icons=true&count_private=true&line_height=19&hide_border=true" />
 </a>
 <a href="https://www.joverzhang.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoverZhang&hide=Dockerfile,Makefile,HTML" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoverZhang&hide=html&hide_border=true&layout=compact" />
 </a>
 
 
