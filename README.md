@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoverZhang&show_icons=true&count_private=true&line_height=20&hide_border=true" />
 </a>
 <a href="https://www.joverzhang.com">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoverZhang&hide=html&hide_border=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoverZhang&hide=html,vim%20script,shell&hide_border=true&layout=compact" />
 </a>
 
 
