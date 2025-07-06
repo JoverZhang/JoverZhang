@@ -1,10 +1,11 @@
-### 👋 I'm Jover
+### 👋 Hi, I'm Jover.  
 
-- ✨ I'm currently interested in operating systems, programming languages, and distributed databases.
-- 🌱 I used to enjoy building my toys, hence I developed an operating system called [DeliciOS](https://github.com/JoverZhang/DeliciOS), and a programming language named [Water](https://github.com/JoverZhang/water) (and maybe a database in the future).
-- 👯 Now, I focus on contributing to the open-source community, aspiring to channel my skills and passion into more valuable contributions to the community.
+- ✨ I'm currently interested in operating systems, programming languages, and distributed databases.  
+- 🌱 I’ve always enjoyed building toy projects — I developed an operating system called **[DeliciOS](https://github.com/JoverZhang/DeliciOS)**, and a programming language named **[Water](https://github.com/JoverZhang/water)**. (Maybe a database is next!)  
+- 👯 These days, I focus on contributing to the open-source community, hoping to channel my skills and passion into more meaningful contributions.
 
-BTW, I'm an Arch Linux user. If you've created any interesting command-line tools, I'd be happy to try them.
+BTW, I'm an Arch Linux user. If you've created any interesting command-line tools, I'd love to try them out!
+
 
 
 
