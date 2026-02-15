@@ -1,34 +1,7 @@
-### 👋 Hi, I'm Jover.  
+### 👋 Hi, I'm Jover
 
-- ✨ I'm currently interested in operating systems, programming languages, and distributed databases.  
-- 🌱 I’ve always enjoyed building toy projects — I developed an operating system called **[DeliciOS](https://github.com/JoverZhang/DeliciOS)**, and a programming language named **[Water](https://github.com/JoverZhang/water)**. (Maybe a database is next!)  
-- 👯 These days, I focus on contributing to the open-source community, hoping to channel my skills and passion into more meaningful contributions.
+- 🔧 Interested in operating systems, programming languages, and distributed databases.
+- 🌱 Recently: **[notion-formula-rs](https://github.com/JoverZhang/notion-formula-rs)** — building blocks for a Notion-style formula language in Rust (analyzer + evaluator + partial LSP support). (WIP)
+- 🧩 I build small toy projects for fun: **[DeliciOS](https://github.com/JoverZhang/DeliciOS)** (an OS) and **[Water](https://github.com/JoverZhang/water)** (a programming language). Maybe a database next.
 
-BTW, I'm an Arch Linux user. If you've created any interesting command-line tools, I'd love to try them out!
-
-
-
-
-<!--
-<a href="https://www.joverzhang.com">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoverZhang&show_icons=true&count_private=true&line_height=20&hide_border=true" />
-</a>
-<a href="https://www.joverzhang.com">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoverZhang&hide=html,vim%20script,shell&hide_border=true&layout=compact" />
-</a>
--->
-
-<!--
-**JoverZhang/JoverZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 BTW: I use Arch Linux. If you’ve built a cool CLI tool, I’d love to try it.
